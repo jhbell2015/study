@@ -1,3 +1,4 @@
 # study
 
-다시 수정 
+
+editing in github
