@@ -1,3 +1,3 @@
 for i in range(10):
-	print(i*i*i)
+	print(f'{i} ==> {i*i*i})
 	
